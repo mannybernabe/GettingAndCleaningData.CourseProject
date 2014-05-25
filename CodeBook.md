@@ -1,10 +1,10 @@
 # Codebook
 
-This codebook descripts the variable in the tidy data set.
+This codebook describes the variables in the tidy data set.
 
 ## ID Variables
 * Subject, pertains to the id of the participant in the study
-* Activity, pertains to the activity that the subject is doing, i.e. walking, sitting, etc.  
+* Activity, pertains to the activity that the subject is doing, i.e. walking, sitting, etc.
 
 ## Measurement Variables
 These variables represent the means and standard deviation of the sensor signals obtain from a participant smart phone device(specifically, accelerometer and gyroscope).  
